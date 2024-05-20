@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Ruoxi Chen"
-description              : "Phd student at Zhejiang University of Technology. "
+description              : "Phd student at Zhejiang University of Technology. \n Research interests include truatworthy machine learning."
 repository               : "Dipsy0830/Dipsy0830.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
