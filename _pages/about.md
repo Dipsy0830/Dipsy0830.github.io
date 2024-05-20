@@ -23,11 +23,11 @@ Before that, I obtained my B.E. degree in the Electrical Engineering and Automat
 
 My research interest includes trustworthy machine learning and robustness of deep learning systems. I am now working on attacks and defense on computer vision, diffusion models and multi-model models. If you are seeking any form of academic cooperation, please feel free to email me.
 
-💡**Research is not all of my life.** 
-Personally, I am a social media influencer specializing in food, lifestyle, and travel.  
-- Photographer: photos posted on [weibo](https://weibo.com/u/2900962381), [redbook](https://www.xiaohongshu.com/user/profile/5f30dfc3000000000100bb43?xhsshare=CopyLink&appuid=61bc33570000000010006e41&apptime=1716239785) ans [instagram](https://www.instagram.com/dipsy0830?igsh=MXFkb3IycmcyY2RlYQ%3D%3D&utm_source=qr).
-- Vlogger: videos posted on [Bilibili](https://b23.tv/qs3fDIC).
-- Freelance writer: articles posted on Wechat subscribe 24HOURS.
+💡 **Research is not all of my life.** 
+Personally, I am a social media influencer specializing in food, lifestyle, and travel. Welcome to collaborate with me.
+- Photographer: Photos posted on [weibo](https://weibo.com/u/2900962381), [redbook](https://www.xiaohongshu.com/user/profile/5f30dfc3000000000100bb43?xhsshare=CopyLink&appuid=61bc33570000000010006e41&apptime=1716239785) ans [instagram](https://www.instagram.com/dipsy0830?igsh=MXFkb3IycmcyY2RlYQ%3D%3D&utm_source=qr).
+- Vlogger: Videos posted on [Bilibili](https://b23.tv/qs3fDIC).
+- Freelance writer: Articles posted on Wechat subscribe 24HOURS.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉 One paper was accepted by [ICML 2024](https://icml.cc/). 
