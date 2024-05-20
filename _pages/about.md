@@ -18,14 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am now a fourth-year Phd student majoring in Control Engineering, at the College of Information Engineering, Zhejiang University of Technology, under the supervision of Prof. Jinyin Chen. Besides, I am now a visiting scholar in the LAIR Lab at Lehigh University, supervised by Prof. [Lichao Sun](https://lichao-sun.github.io/).
+
 Before that, I obtained my B.E. degree in the Electrical Engineering and Automation at the College of Information Engineering, Zhejiang University of Technology.
 
 My research interest includes trustworthy machine laerning and robustness of deep learning systems. I am now working on attacks and defense on computer vision, diffusion models and multi-model models. If you are seeking any form of academic cooperation, please feel free to email me.
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉 One paper was accepted by [ICML 2024]{https://icml.cc/}. 
-- *2024.03*: &nbsp;🎉 **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework** is preprint and selected as 🏆 &nbsp;Hugging Face Daily Papers.
-- *2024.02*: &nbsp;🎉 **Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models** is preprint and selected as 🏆 &nbsp;Hugging Face Daily Papers.
+- *2024.05*: &nbsp;🎉 One paper was accepted by [ICML 2024](https://icml.cc/). 
+- *2024.03*: &nbsp;🎉 **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework** is preprint and selected as 🏆 Hugging Face Daily Papers.
+- *2024.02*: &nbsp;🎉 **Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models** is preprint and selected as 🏆 Hugging Face Daily Papers.
 
 # 📝 Publications 
 
