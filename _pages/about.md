@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a fourth-year Phd student at the College of Information Engineering, Zhejiang University of Technology. Besides, I am now a visiting scholar at Lehigh University, supervised by Prof. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Lichao Sun.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now a fourth-year Phd student majoring in Control Engineering, at the College of Information Engineering, Zhejiang University of Technology, under the supervision of Prof. Jinyin Chen. Besides, I am now a visiting scholar in the LAIR Lab at Lehigh University, supervised by Prof. [Lichao Sun](https://lichao-sun.github.io/).
+Before that, I obtained my B.E. degree in the Electrical Engineering and Automation at the College of Information Engineering, Zhejiang University of Technology.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interest includes trustworthy machine laerning and robustness of deep learning systems. I am now working on attacks and defense on computer vision, diffusion models and multi-model models. If you are seeking any form of academic cooperation, please feel free to email me.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉 One paper was accepted by [ICML 2024]{https://icml.cc/}. 
+- *2024.03*: &nbsp;🎉 **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework** is preprint and selected as 🏆 &nbsp;Hugging Face Daily Papers.
+- *2024.02*: &nbsp;🎉 **Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models** is preprint and selected as 🏆 &nbsp;Hugging Face Daily Papers.
 
 # 📝 Publications 
 
