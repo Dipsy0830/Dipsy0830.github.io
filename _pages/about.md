@@ -38,18 +38,6 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 - [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/pdf/2402.04788), Dongping Chen<sup>*</sup>, **Ruoxi Chen**<sup>*</sup>, Shilin Zhang<sup>*</sup>, Yaochen Wang<sup>*</sup>, Yinuo Liu<sup>*</sup>, Huichi Zhou<sup>*</sup>, Qihui Zhang<sup>*</sup>, Pan Zhou, Yao Wan, Lichao Sun, **ICML 2024**. (<sup>*</sup> equal contribution)   
 
 - [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248), Zhengqing Yuan, **Ruoxi Chen**, Zhaoxu Li, Haolong Jia, Lifang He, Chi Wang, Lichao Sun
