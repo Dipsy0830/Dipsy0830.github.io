@@ -33,8 +33,8 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉 One paper was accepted by [ICML 2024](https://icml.cc/). 
-- *2024.03*: &nbsp;🎉 **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework** is preprint and selected as 🏆 Hugging Face Daily Papers.
-- *2024.02*: &nbsp;🎉 **Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models** is preprint and selected as 🏆 Hugging Face Daily Papers.
+- *2024.03*: &nbsp; **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework** is preprint and selected as 🏆 Hugging Face Daily Papers.
+- *2024.02*: &nbsp; **Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models** is preprint and selected as 🏆 Hugging Face Daily Papers.
 
 # 📝 Publications 
 
