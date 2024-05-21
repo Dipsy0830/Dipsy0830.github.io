@@ -53,14 +53,14 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖️ Honors and Awards
-- *2023.4* Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
-- *2022.10* National Scholarship, Postgraduate Premium Scholarship.
-- *2021.10* Postgraduate Premium Scholarship.
+- *2023.4*: &nbsp;Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
+- *2022.10*: &nbsp; National Scholarship, Postgraduate Premium Scholarship.
+- *2021.10*: &nbsp; Postgraduate Premium Scholarship.
   
 # 📖 Educations
-- *2020 - 2025.06 (now)*, PhD Candicate, Control Engineering, Zhejiang University of Technology, Hangzhou, China. 
-- *2016.09 - 2020.06*, Undergraduate, Electrical Engineering and Automation, Zhejiang University of Technology, Hangzhou, China. 
+- *2020 - 2025.06 (now)*: &nbsp; PhD Candicate, Control Engineering, Zhejiang University of Technology, Hangzhou, China. 
+- *2016.09 - 2020.06*: &nbsp; Undergraduate, Electrical Engineering and Automation, Zhejiang University of Technology, Hangzhou, China. 
 
 
 # 💻 Internships
-- *2023.6 - now*, Visiting student at LAIR Lab, Lehigh University, US. (Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
+- *2023.6 - now*: &nbsp; Visiting student at LAIR Lab, Lehigh University, US. (Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
