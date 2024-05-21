@@ -21,7 +21,7 @@ I am now a fourth-year PhD student majoring in Control Engineering, at the Colle
 
 Before that, I obtained my B.E. degree in the Electrical Engineering and Automation at the College of Information Engineering, Zhejiang University of Technology.
 
-My research interest includes trustworthy machine learning and robustness of deep learning systems. I am now working on attacks and defense on computer vision, diffusion models and multi-model models. If you are seeking any form of academic cooperation, please feel free to email me.
+My research interest includes trustworthy machine learning and robustness of deep learning systems. I am now working on attacks and defense on computer vision, diffusion models and multi-modal models. If you are seeking any form of academic cooperation, please feel free to email me.
 
 <br/>
 💡 &nbsp; **Research is just one facet of my life.** 
