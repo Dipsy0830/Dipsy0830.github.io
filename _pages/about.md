@@ -38,11 +38,11 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 
 # 📝 Selected Publications 
 
-- [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/pdf/2402.04788), Dongping Chen<sup>*</sup>, **Ruoxi Chen**<sup>*</sup>, Shilin Zhang<sup>*</sup>, Yaochen Wang<sup>*</sup>, Yinuo Liu<sup>*</sup>, Huichi Zhou<sup>*</sup>, Qihui Zhang<sup>*</sup>, Pan Zhou, Yao Wan, Lichao Sun, **ICML 2024**. (<sup>*</sup> equal contribution)   
+- [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/pdf/2402.04788), Dongping Chen\*, **Ruoxi Chen**\*, Shilin Zhang\*, Yaochen Wang\*, Yinuo Liu\*, Huichi Zhou\*, Qihui Zhang\*, Pan Zhou, Yao Wan, Lichao Sun, **ICML 2024**. (\* equal contribution)   
 
 - [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248), Zhengqing Yuan, **Ruoxi Chen**, Zhaoxu Li, Haolong Jia, Lifang He, Chi Wang, Lichao Sun
 
-- [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177), Yixin Liu<sup>*</sup>, Kai Zhang<sup>*</sup>, Yuan Li<sup>*</sup>, Zhiling Yan<sup>*</sup>, Chujie Gao<sup>*</sup>, **Ruoxi Chen**<sup>*</sup>, Zhengqing Yuan<sup>*</sup>, Yue Huang<sup>*</sup>, Hanchi Sun<sup>*</sup>, Jianfeng Gao, Lifang He, Lichao Sun (<sup>*</sup> equal contribution)
+- [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177), Yixin Liu\*, Kai Zhang\*, Yuan Li\*, Zhiling Yan\*, Chujie Gao\*, **Ruoxi Chen**\*, Zhengqing Yuan\*, Yue Huang\*, Hanchi Sun\*, Jianfeng Gao, Lifang He, Lichao Sun (\* equal contribution)
 
 - [AdvCheck: Characterizing adversarial examples via local gradient checking](https://www.sciencedirect.com/science/article/pii/S0167404823004509), **Ruoxi Chen**, Haibo Jin, Jinyin Chen, Haibin Zheng, Shilian Zheng, Xiaoniu Yang, Xing Yang, Computers & Security 136, 103540. \[SCI Q2\]
 
