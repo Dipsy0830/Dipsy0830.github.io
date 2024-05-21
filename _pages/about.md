@@ -36,7 +36,7 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - *2024.03*: &nbsp; **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework** is preprint and selected as 🏆 Hugging Face Daily Papers.
 - *2024.02*: &nbsp; **Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models** is preprint and selected as 🏆 Hugging Face Daily Papers.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,7 +50,17 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/pdf/2402.04788), Dongping Chen<sup>*</sup>, **Ruoxi Chen**<sup>*</sup>, Shilin Zhang<sup>*</sup>, Yaochen Wang<sup>*</sup>, Yinuo Liu<sup>*</sup>, Huichi Zhou<sup>*</sup>, Qihui Zhang<sup>*</sup>, Pan Zhou, Yao Wan, Lichao Sun, **ICML 2024**. (<sup>*</sup> equal contribution)   
+
+- [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248), Zhengqing Yuan, **Ruoxi Chen**, Zhaoxu Li, Haolong Jia, Lifang He, Chi Wang, Lichao Sun
+
+- [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177), Yixin Liu<sup>*</sup>, Kai Zhang<sup>*</sup>, Yuan Li<sup>*</sup>, Zhiling Yan<sup>*</sup>, Chujie Gao<sup>*</sup>, **Ruoxi Chen**<sup>*</sup>, Zhengqing Yuan<sup>*</sup>, Yue Huang<sup>*</sup>, Hanchi Sun<sup>*</sup>, Jianfeng Gao, Lifang He, Lichao Sun (<sup>*</sup> equal contribution)
+
+- [AdvCheck: Characterizing adversarial examples via local gradient checking](https://www.sciencedirect.com/science/article/pii/S0167404823004509), **Ruoxi Chen**, Haibo Jin, Jinyin Chen, Haibin Zheng, Shilian Zheng, Xiaoniu Yang, Xing Yang, Computers & Security 136, 103540. \[SCI Q2\]
+
+- [Excitement surfeited turns to errors: Deep learning testing framework based on excitable neurons](https://www.sciencedirect.com/science/article/pii/S0020025523005054), Haibo Jin, **Ruoxi Chen**, Haibin Zheng, Jinyin Chen, Yao Cheng, Yue Yu, Tieming Chen, Xianglong Liu, Information Sciences 637, 118936.\[SCI Q1\]
+
+- [Salient feature extractor for adversarial defense on deep neural networks](https://www.sciencedirect.com/science/article/pii/S0020025522002754), **Ruoxi Chen**, Jinyin Chen, Haibin Zheng, Qi Xuan, Zhaoyan Ming, Wenrong Jiang, Chen Cui, Information Sciences 600, 118-143.\[SCI Q1\]
 
 # 🎖️ Honors and Awards
 - *2023.4*: &nbsp;Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
