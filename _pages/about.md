@@ -32,6 +32,7 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - Freelance writer: Articles posted on Wechat subscribe [24HOURS](https://mp.weixin.qq.com/s/g2YgkbGvIrCevYSiA6IVEA).
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉 Two papers are accepted by [ECCV 2024](https://eccv2024.ecva.net/). 
 - *2024.05*: &nbsp;🎉 One paper was accepted by [ICML 2024](https://icml.cc/). 
 - *2024.03*: &nbsp; **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework** is preprint and selected as 🏆 Hugging Face Daily Papers.
 - *2024.02*: &nbsp; **Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models** is preprint and selected as 🏆 Hugging Face Daily Papers.
