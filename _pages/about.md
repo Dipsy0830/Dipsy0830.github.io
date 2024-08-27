@@ -32,6 +32,7 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - Freelance writer: Articles posted on Wechat subscribe [24HOURS](https://mp.weixin.qq.com/s/g2YgkbGvIrCevYSiA6IVEA).
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉 One paper is accepted by IEEE TDSC.
 - *2024.07*: &nbsp;🎉 Two papers are accepted by [ECCV 2024](https://eccv2024.ecva.net/). 
 - *2024.05*: &nbsp;🎉 One paper was accepted by [ICML 2024](https://icml.cc/). 
 - *2024.03*: &nbsp; **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework** is preprint and selected as 🏆 Hugging Face Daily Papers.
@@ -39,8 +40,8 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 
 # 📝 Selected Publications 
 
-- [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/pdf/2402.04788), Dongping Chen\*, **Ruoxi Chen**\*, Shilin Zhang\*, Yaochen Wang\*, Yinuo Liu\*, Huichi Zhou\*, Qihui Zhang\*, Pan Zhou, Yao Wan, Lichao Sun, **ICML 2024 Oral (Accepted Rate 2%)**. (\* equal contribution)   
-
+- [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/pdf/2402.04788), Dongping Chen\*, **Ruoxi Chen**\*, Shilin Zhang\*, Yaochen Wang\*, Yinuo Liu\*, Huichi Zhou\*, Qihui Zhang\*, Pan Zhou, Yao Wan, Lichao Sun, **ICML 2024 Oral (Accepted Rate 2%)**. (\* equal contribution)
+- [Fight Perturbations with Perturbations: Defending Adversarial Attacks via Neuron Influence](https://ieeexplore.ieee.org/abstract/document/10640242), **Ruoxi Chen**, Haibo Jin, Haibin Zheng, Jinyin Chen, Zhenguang Liu, **IEEE Transactions on Dependable and Secure Computing**.
 - [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248), Zhengqing Yuan, **Ruoxi Chen**, Zhaoxu Li, Haolong Jia, Lifang He, Chi Wang, Lichao Sun
 
 - [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177), Yixin Liu\*, Kai Zhang\*, Yuan Li\*, Zhiling Yan\*, Chujie Gao\*, **Ruoxi Chen**\*, Zhengqing Yuan\*, Yue Huang\*, Hanchi Sun\*, Jianfeng Gao, Lifang He, Lichao Sun (\* equal contribution)
@@ -62,4 +63,4 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 
 
 # 💻 Internships
-- *2023.6 - now*: &nbsp; Visiting student at LAIR Lab, Lehigh University, US. (Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
+- *2023.6 - 2024.8*: &nbsp; Visiting student at LAIR Lab, Lehigh University, US. (Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
