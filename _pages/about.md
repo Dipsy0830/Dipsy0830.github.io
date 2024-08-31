@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a fourth-year PhD student majoring in Control Engineering, at the College of Information Engineering, Zhejiang University of Technology, under the supervision of Prof. Jinyin Chen. Besides, I was a visiting scholar in the LAIR Lab at Lehigh University, supervised by Prof. [Lichao Sun](https://lichao-sun.github.io/).
+I am now a fourth-year PhD student majoring in Control Engineering, at the College of Information Engineering, Zhejiang University of Technology, under the supervision of Prof. [Jinyin Chen](http://121.196.145.171:8080/chenjinyin/). Besides, I was a visiting scholar in the LAIR Lab at Lehigh University, supervised by Prof. [Lichao Sun](https://lichao-sun.github.io/).
 
 Before that, I obtained my B.E. degree in the Electrical Engineering and Automation at the College of Information Engineering, Zhejiang University of Technology.
 
