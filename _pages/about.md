@@ -35,8 +35,6 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - *2024.08*: &nbsp;🎉 One paper is accepted by IEEE TDSC.
 - *2024.07*: &nbsp;🎉 Two papers are accepted by [ECCV 2024](https://eccv2024.ecva.net/). 
 - *2024.05*: &nbsp;🎉 One paper was accepted by [ICML 2024](https://icml.cc/). 
-- *2024.03*: &nbsp; **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework** is preprint and selected as 🏆 Hugging Face Daily Papers.
-- *2024.02*: &nbsp; **Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models** is preprint and selected as 🏆 Hugging Face Daily Papers.
 
 # 📝 Selected Publications 
 
@@ -62,5 +60,8 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - *2016.09 - 2020.06*: &nbsp; Undergraduate, Electrical Engineering and Automation, Zhejiang University of Technology, Hangzhou, China. 
 
 
-# 💻 Internships
+# 🔖 Internships
 - *2023.6 - 2024.8*: &nbsp; Visiting student at LAIR Lab, Lehigh University, US. (Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
+
+# 💻 Service
+- *2025*: &nbsp; ICLR 2025, ICASSP
