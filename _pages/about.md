@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a fourth-year PhD student majoring in Control Engineering, at the College of Information Engineering, Zhejiang University of Technology, under the supervision of Prof. [Jinyin Chen](http://121.196.145.171:8080/chenjinyin/). Besides, I was a visiting scholar in the LAIR Lab at Lehigh University, supervised by Prof. [Lichao Sun](https://lichao-sun.github.io/).
+I am now a fourth-year PhD student majoring in Control Engineering, at the College of Information Engineering, Zhejiang University of Technology, under the supervision of Prof. [Jinyin Chen](http://121.196.145.171:8080/chenjinyin/). Besides, I was a visiting scholar in the LAIR Lab at Lehigh University, supervised by Prof. [Lichao Sun](https://lichao-sun.github.io/). Now I am also working closely with Prof. [Yao Wan](https://scholar.google.com/citations?user=c3MtqtMAAAAJ&hl=en) 
 
 Before that, I obtained my B.E. degree in the Electrical Engineering and Automation at the College of Information Engineering, Zhejiang University of Technology.
 
-My research interest includes trustworthy machine learning and robustness of deep learning systems. I am now working on attacks and defense on computer vision, diffusion models and multi-modal models. If you are seeking any form of academic cooperation, please feel free to email me.
+My research interest includes multi-modal models and trustworthy machine learning. I am now working on attacks and defense on computer vision, diffusion models and benchmarks on multi-modal models. If you are seeking any form of academic cooperation, please feel free to email me.
 
 <br/>
 💡 &nbsp; **Research is just one facet of my life.** 
@@ -40,7 +40,8 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 
 - [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/pdf/2402.04788), Dongping Chen\*, **Ruoxi Chen**\*, Shilin Zhang\*, Yaochen Wang\*, Yinuo Liu\*, Huichi Zhou\*, Qihui Zhang\*, Pan Zhou, Yao Wan, Lichao Sun, **ICML 2024 Oral (Accepted Rate 2%)**. (\* equal contribution)
 - [Fight Perturbations with Perturbations: Defending Adversarial Attacks via Neuron Influence](https://ieeexplore.ieee.org/abstract/document/10640242), **Ruoxi Chen**, Haibo Jin, Haibin Zheng, Jinyin Chen, Zhenguang Liu, **IEEE Transactions on Dependable and Secure Computing**.
-- [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248), Zhengqing Yuan, **Ruoxi Chen**, Zhaoxu Li, Haolong Jia, Lifang He, Chi Wang, Lichao Sun
+- [EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models](https://arxiv.org/pdf/2311.12066), **Ruoxi Chen**, Haibo Jin, Yixin Liu, Jinyin Chen, Haohan Wang, Lichao Sun, **ECCV 2024**.
+- [CatchBackdoor: Backdoor Detection via Critical Trojan Neural Path Fuzzing](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06326.pdf), Haibo Jin, **Ruoxi Chen**, Jinyin Chen, Haibin Zheng, Yang Zhang, Haohan Wang, **ECCV 2024**.
 
 - [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177), Yixin Liu\*, Kai Zhang\*, Yuan Li\*, Zhiling Yan\*, Chujie Gao\*, **Ruoxi Chen**\*, Zhengqing Yuan\*, Yue Huang\*, Hanchi Sun\*, Jianfeng Gao, Lifang He, Lichao Sun (\* equal contribution)
 
@@ -51,12 +52,13 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - [Salient feature extractor for adversarial defense on deep neural networks](https://www.sciencedirect.com/science/article/pii/S0020025522002754), **Ruoxi Chen**, Jinyin Chen, Haibin Zheng, Qi Xuan, Zhaoyan Ming, Wenrong Jiang, Chen Cui, Information Sciences 600, 118-143.\[SCI Q1\]
 
 # 🎖️ Honors and Awards
+- *2024.10*: &nbsp; National Scholarship
 - *2023.4*: &nbsp;Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
 - *2022.10*: &nbsp; National Scholarship, Postgraduate Premium Scholarship.
 - *2021.10*: &nbsp; Postgraduate Premium Scholarship.
   
 # 📖 Educations
-- *2020 - 2025.06 (now)*: &nbsp; PhD Candicate, Control Engineering, Zhejiang University of Technology, Hangzhou, China. 
+- *2020 - 2025.06 (expected)*: &nbsp; PhD Student, Control Engineering, Zhejiang University of Technology, Hangzhou, China. 
 - *2016.09 - 2020.06*: &nbsp; Undergraduate, Electrical Engineering and Automation, Zhejiang University of Technology, Hangzhou, China. 
 
 
@@ -64,4 +66,4 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - *2023.6 - 2024.8*: &nbsp; Visiting student at LAIR Lab, Lehigh University, US. (Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
 
 # 💻 Service
-- *2025*: &nbsp; ICLR 2025, ICASSP
+- *2025*: &nbsp; ICLR 2025, ICASSP 2025
