@@ -22,7 +22,7 @@ I am now an instructor at College of Information and Intelligence Engineering, Z
 Before that, I obtained my PhD degree in Electronic Engineering at the College of Information Engineering, Zhejiang University of Technology, under the supervision of Prof. [Jinyin Chen](http://121.196.145.171:8080/chenjinyin/). Besides, I was a visiting scholar in the LAIR Lab at Lehigh University, supervised by Prof. [Lichao Sun](https://lichao-sun.github.io/). Now I am also working closely with Prof. [Yao Wan](https://scholar.google.com/citations?user=c3MtqtMAAAAJ&hl=en).
 I obtained my B.E. degree in Electrical Engineering and Automation at the College of Information Engineering, Zhejiang University of Technology.
 
-My research interest includes multi-modal models and trustworthy machine learning. I am now working on trustworthy problems and benchmarks on multi-modal models. If you are seeking any form of academic cooperation, please feel free to email me.
+My research interest includes multi-modal models and trustworthy machine learning. If you are seeking any form of academic cooperation, please feel free to email me.
 
 <br/>
 💡 &nbsp; **Research is just one facet of my life.** 
