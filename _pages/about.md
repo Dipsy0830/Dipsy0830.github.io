@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a fourth-year PhD student majoring in Control Engineering, at the College of Information Engineering, Zhejiang University of Technology, under the supervision of Prof. [Jinyin Chen](http://121.196.145.171:8080/chenjinyin/). Besides, I was a visiting scholar in the LAIR Lab at Lehigh University, supervised by Prof. [Lichao Sun](https://lichao-sun.github.io/). Now I am also working closely with Prof. [Yao Wan](https://scholar.google.com/citations?user=c3MtqtMAAAAJ&hl=en).
+I am now an instructor at College of Information and Intelligence Engineering, Zhejiang Wanli University. 
 
-Before that, I obtained my B.E. degree in the Electrical Engineering and Automation at the College of Information Engineering, Zhejiang University of Technology.
+Before that, I obtained my PhD degree in Electronic Engineering at the College of Information Engineering, Zhejiang University of Technology, under the supervision of Prof. [Jinyin Chen](http://121.196.145.171:8080/chenjinyin/). Besides, I was a visiting scholar in the LAIR Lab at Lehigh University, supervised by Prof. [Lichao Sun](https://lichao-sun.github.io/). Now I am also working closely with Prof. [Yao Wan](https://scholar.google.com/citations?user=c3MtqtMAAAAJ&hl=en).
+I obtained my B.E. degree in Electrical Engineering and Automation at the College of Information Engineering, Zhejiang University of Technology.
 
 My research interest includes multi-modal models and trustworthy machine learning. I am now working on attacks and defense on computer vision, diffusion models and benchmarks on multi-modal models. If you are seeking any form of academic cooperation, please feel free to email me.
 
@@ -32,12 +33,13 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - Freelance writer: Articles posted on Wechat subscribe [24HOURS](https://mp.weixin.qq.com/s/g2YgkbGvIrCevYSiA6IVEA).
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 One paper is accepted by [ACM MM 2025](https://acmmm2025.org/).
+- *2025.01*: &nbsp;🎉 One paper is accepted by [ICLR 2025](https://iclr.cc/virtual/2025/papers.html).
 - *2024.08*: &nbsp;🎉 One paper is accepted by IEEE TDSC.
-- *2024.07*: &nbsp;🎉 Two papers are accepted by [ECCV 2024](https://eccv2024.ecva.net/). 
-- *2024.05*: &nbsp;🎉 One paper was accepted by [ICML 2024](https://icml.cc/). 
 
 # 📝 Selected Publications 
 
+- [Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment](https://arxiv.org/pdf/2411.17188), Dongping Chen\*, **Ruoxi Chen**\*, Shu Pu\*, Zhaoyi Liu\*, Yanru Wu\*, Caixi Chen\*, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna, **ICLR 2025 Spotlight  (Accepted Rate 5.1%)**. (\* equal contribution)
 - [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/pdf/2402.04788), Dongping Chen\*, **Ruoxi Chen**\*, Shilin Zhang\*, Yaochen Wang\*, Yinuo Liu\*, Huichi Zhou\*, Qihui Zhang\*, Pan Zhou, Yao Wan, Lichao Sun, **ICML 2024 Oral (Accepted Rate 2%)**. (\* equal contribution)
 - [Fight Perturbations with Perturbations: Defending Adversarial Attacks via Neuron Influence](https://ieeexplore.ieee.org/abstract/document/10640242), **Ruoxi Chen**, Haibo Jin, Haibin Zheng, Jinyin Chen, Zhenguang Liu, **IEEE Transactions on Dependable and Secure Computing**.
 - [EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models](https://arxiv.org/pdf/2311.12066), **Ruoxi Chen**, Haibo Jin, Yixin Liu, Jinyin Chen, Haohan Wang, Lichao Sun, **ECCV 2024**.
@@ -52,13 +54,14 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - [Salient feature extractor for adversarial defense on deep neural networks](https://www.sciencedirect.com/science/article/pii/S0020025522002754), **Ruoxi Chen**, Jinyin Chen, Haibin Zheng, Qi Xuan, Zhaoyan Ming, Wenrong Jiang, Chen Cui, Information Sciences 600, 118-143.\[SCI Q1\]
 
 # 🎖️ Honors and Awards
-- *2024.10*: &nbsp; National Scholarship
+- *2025.06*: &nbsp; Outstanding Graduate of Zhejiang Province.
+- *2024.10*: &nbsp; National Scholarship.
 - *2023.4*: &nbsp;Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
 - *2022.10*: &nbsp; National Scholarship, Postgraduate Premium Scholarship.
 - *2021.10*: &nbsp; Postgraduate Premium Scholarship.
   
 # 📖 Educations
-- *2020 - 2025.06 (expected)*: &nbsp; PhD Student, Control Engineering, Zhejiang University of Technology, Hangzhou, China. 
+- *2020.09 - 2025.06*: &nbsp; PhD, Control Engineering, Zhejiang University of Technology, Hangzhou, China. 
 - *2016.09 - 2020.06*: &nbsp; Undergraduate, Electrical Engineering and Automation, Zhejiang University of Technology, Hangzhou, China. 
 
 
@@ -66,4 +69,4 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - *2023.6 - 2024.8*: &nbsp; Visiting student at LAIR Lab, Lehigh University, US. (Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
 
 # 💻 Service
-- *2025*: &nbsp; ICLR 2025, ICASSP 2025
+- *2025*: &nbsp; ICLR 2025, ICASSP 2025, ICCV 2025
