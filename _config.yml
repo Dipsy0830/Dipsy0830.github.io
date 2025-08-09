@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruoxi Chen"
-description              : "PhD student at Zhejiang University of Technology. <br/> Focusing on trustworthy machine learning."
+description              : "Zhejiang Wanli University. <br/> Focusing on trustworthy machine learning and multi-modal models."
 repository               : "Dipsy0830/Dipsy0830.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruoxi Chen"
   avatar           : "images/IMG_9154.JPG"
-  bio              : "Zhejiang University of Technology"
-  location         : "Hangzhou, China"
+  bio              : "Zhejiang Wanli University"
+  location         : "Ningbo, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F7cDYF0AAAAJ&hl=zh-CN"
