@@ -56,7 +56,7 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 # 🎖️ Honors and Awards
 - *2025.06*: &nbsp; Outstanding Graduate of Zhejiang Province.
 - *2024.10*: &nbsp; National Scholarship.
-- *2023.4*: &nbsp;Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
+- *2023.04*: &nbsp;Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
 - *2022.10*: &nbsp; National Scholarship, Postgraduate Premium Scholarship.
 - *2021.10*: &nbsp; Postgraduate Premium Scholarship.
   
