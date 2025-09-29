@@ -38,7 +38,7 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - *2024.08*: &nbsp;🎉 One paper is accepted by IEEE TDSC.
 
 # 📝 Selected Publications 
-- [MultiRef: Controllable Image Generation with Multiple Visual References], **Ruoxi Chen**, Dongping Chen, Siyuan Wu, Sinan Wang, Shiyun Lang, Petr Sushko, Gaoyang Jiang, Yao Wan, Ranjay Krishna\*, **ACM Multimedia 2025 Dataset Track**.
+- [MultiRef: Controllable Image Generation with Multiple Visual References](https://arxiv.org/pdf/2508.06905), **Ruoxi Chen**, Dongping Chen, Siyuan Wu, Sinan Wang, Shiyun Lang, Petr Sushko, Gaoyang Jiang, Yao Wan, Ranjay Krishna\*, **ACM Multimedia 2025 Dataset Track**.
 
 - [Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment](https://arxiv.org/pdf/2411.17188), Dongping Chen\*, **Ruoxi Chen**\*, Shu Pu\*, Zhaoyi Liu\*, Yanru Wu\*, Caixi Chen\*, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna, **ICLR 2025 Spotlight  (Accepted Rate 5.1%)**. (\* equal contribution)
 - [MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark](https://arxiv.org/pdf/2402.04788), Dongping Chen\*, **Ruoxi Chen**\*, Shilin Zhang\*, Yaochen Wang\*, Yinuo Liu\*, Huichi Zhou\*, Qihui Zhang\*, Pan Zhou, Yao Wan, Lichao Sun, **ICML 2024 Oral (Accepted Rate 2%)**. (\* equal contribution)
