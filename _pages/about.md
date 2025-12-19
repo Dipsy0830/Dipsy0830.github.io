@@ -71,4 +71,5 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - *2023.6 - 2024.8*: &nbsp; Visiting student at LAIR Lab, Lehigh University, US. (Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
 
 # 💻 Service
-- *2025*: &nbsp; ICLR 2025, ICASSP 2025, ICCV 2025, ICLR 2026
+- *2025*: &nbsp; ICLR 2025, ICASSP 2025, ICCV 2025, ICLR 2026, CVPR 2026
+- *2026*: &nbsp; ICML 2026
