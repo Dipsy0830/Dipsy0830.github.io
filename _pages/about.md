@@ -33,6 +33,7 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 - Freelance writer: Articles posted on Wechat subscribe [24HOURS](https://mp.weixin.qq.com/s/g2YgkbGvIrCevYSiA6IVEA).
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 One paper is accepted by [ICLR 2026](https://iclr.cc/virtual/2026/papers.html).
 - *2025.11*: &nbsp;🎉 One paper is accepted by [ACM SIGKDD 2026](https://kdd2026.kdd.org/).
 - *2025.08*: &nbsp;🎉 One paper is accepted by [ACM MM 2025](https://acmmm2025.org/).
 - *2025.01*: &nbsp;🎉 One paper is accepted by [ICLR 2025](https://iclr.cc/virtual/2025/papers.html).
@@ -72,4 +73,4 @@ Personally, I am a social media influencer specializing in food, lifestyle, and 
 
 # 💻 Service
 - *2025*: &nbsp; ICLR 2025, ICASSP 2025, ICCV 2025, ICLR 2026, CVPR 2026
-- *2026*: &nbsp; ICML 2026
+- *2026*: &nbsp; ICML 2026, ECCV 2026
