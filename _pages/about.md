@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now an instructor at College of Information and Intelligence Engineering, Zhejiang Wanli University. 
+I am now a lecturer at College of Information and Intelligence Engineering, Zhejiang Wanli University. 
 
 Before that, I obtained my PhD degree in Electronic Engineering at the College of Information Engineering, Zhejiang University of Technology, under the supervision of Prof. [Jinyin Chen](http://121.196.145.171:8080/chenjinyin/). Besides, I was a visiting scholar in the LAIR Lab at Lehigh University, supervised by Prof. [Lichao Sun](https://lichao-sun.github.io/). Now I am also working closely with Prof. [Yao Wan](https://scholar.google.com/citations?user=c3MtqtMAAAAJ&hl=en).
 I obtained my B.E. degree in Electrical Engineering and Automation at the College of Information Engineering, Zhejiang University of Technology.
 
-My research interest includes multi-modal models and trustworthy machine learning. If you are seeking any form of academic cooperation, please feel free to email me.
+My research interests include multi-modal models and trustworthy machine learning. If you are seeking any form of academic cooperation, please feel free to email me.
 
 <br/>
 💡 &nbsp; **Research is just one facet of my life.** 
